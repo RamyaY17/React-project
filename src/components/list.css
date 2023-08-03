@@ -1,0 +1,9 @@
+.List{
+    width: 778px;
+    border: 2px solid black;
+    margin-left: 25%;
+    background: linear-gradient(to right,rgb(1, 40, 81),grey,white);
+}
+#hihello{
+    margin-left: 10%;
+}

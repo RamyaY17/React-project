@@ -1,0 +1,15 @@
+.Table{
+    border: 3px solid rgba(19, 8, 8, 0.84);
+    width:780px;
+    margin-left:360px;
+    margin-right: auto;
+}
+.Table td{
+    border: 2px solid black;
+    background-color: rgb(77, 160, 160);
+    width:fit-content;
+}
+.Table th{
+    text-align: center;
+    font: 20px;
+}

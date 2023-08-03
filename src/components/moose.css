@@ -1,0 +1,19 @@
+.moose table{
+    margin-left: 28%;
+}
+.moose,tr,th{
+    border: 2px solid black;
+}
+.moose table,tr,td{
+    border: 2px solid black;
+    background :linear-gradient(to right, #c0c0aa, #1cefff)
+}
+.moose{
+    text-align: left;
+}
+.moose h1,h2{
+    text-align: center;
+}
+.moose #hello{
+    margin-left: 28%;
+}
